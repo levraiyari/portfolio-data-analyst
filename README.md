@@ -2,7 +2,9 @@
 
 Portfolio interactif de trois études de cas en analyse de données : cybersécurité email et réseaux de transport de la métropole marseillaise. Chaque étude part d'une question métier, s'appuie sur des données préparées en Python, et se termine par des indicateurs et des recommandations présentés dans un tableau de bord interactif.
 
-**Site en ligne :** _à compléter_
+**Site en ligne : [yassinmary.fr](https://yassinmary.fr)**
+
+![Page d'accueil du portfolio](docs/apercu.png)
 
 ## Études de cas
 
